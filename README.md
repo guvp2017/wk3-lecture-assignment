@@ -1,2 +1,2 @@
 # wk3-lecture-assignment
-wk3-lecture-assignment needs to: 1.	Go to your testrepo on GitHub; 2.	Create a "readme" file explaining the repo. The README can be edited as needed; 3.	The repo should contain a text or screen shot of your data science profile from unit 1. If not, please add and commit the file to your testrepo as described in the previous module; 4.	The testrepo should also contain files from McGee's stat6306datascience repo; 5.	Post the link to your testrepo below.
+wk3-lecture-assignment: For testrepo "wk3-lecture-assignment", (1) create a "readme" file explaining the repo; (2) The repo should contain a text or screen shot of your data science profile from unit; (3) The testrepo should also contain files from McGee's stat6306datascience repo.
